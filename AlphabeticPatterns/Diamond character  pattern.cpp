@@ -5,7 +5,7 @@ int main(){
   cout<<"Enter a value of m:";
   cin>>m;
   char ch;
-  cout<<"Enter your character (A-Z) or(a-z) :";
+  cout<<"Enter your character :";
   cin>>ch;
   for(int i=1; i<=m; i++){
   for(int j=m; j>=i; j--){
